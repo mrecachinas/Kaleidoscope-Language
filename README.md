@@ -1,8 +1,8 @@
 #Kaleidoscope Language#
 
 Following along with two different tutorials 
-- OCaml
-- Haskell
+- [OCaml](http://llvm.org/docs/tutorial/OCamlLangImpl1.html)
+- [Haskell](http://www.stephendiehl.com/llvm/)
 
 ##Example of the Language##
 
